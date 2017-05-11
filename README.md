@@ -1,4 +1,4 @@
-<a name="Read%20Me"/>
+<a name="read-me"/>
 ## Read Me
 
 ## Contents
@@ -15,7 +15,7 @@
 ##### [.gitignore](#gitignore-rewind)
 ##### [.exclude](#exclude-rewind)
 ________________________________________________________________________________
-## About [:rewind:](#Read%20Me)
+## About [:rewind:](#read-me)
 
 ### Who [:rewind:](#read-me)
 

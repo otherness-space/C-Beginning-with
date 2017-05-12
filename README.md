@@ -1,6 +1,4 @@
-<a name="read-me"/>
-
-## Read Me
+## Read Me <a name="read-me"/>
 
 ## Contents
 #### [About](#about-rewind)
